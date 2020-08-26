@@ -3,6 +3,8 @@
 ## Description
 The Dog breed classifier is a problem that can be solved with the ML model. The problem is identifying a breed of a dog with a dog image that is given as an input. This is a multi-class classification problem where we can use a supervised ML model to solve. After completing the ML model then I build a web application and Rest-API for users to upload an image and get results from the ML model. This project gives me the knowledge to build an end-to-end ML project, so I have chosen this project as my capstone project.
 
+Review proposal line: https://review.udacity.com/#!/reviews/2488935
+
 ## Dependencies
 - Python3 (version >= 3.6)
 - Pip (For install Python packages)
